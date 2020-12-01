@@ -1,0 +1,28 @@
+# mycppproject11
+This is my repository for my Class 11 C++ Project prepared for my Higher Secondary Board Examination.
+
+Index of the Programs:
+Write a program to calculate the percentage of four subjects.
+Write a program to print greatest number entered by user.
+Write a program to return table of entered number.
+Write a program to print Fibonacci series.
+Write a program to print a series (1,4,7………). 
+ Write an Event Driven program.
+Write a program to print a Pattern.
+Write a program to print a Pattern of Diamond.
+Write a program to check whether number is prime or not.
+Write a program to print a Hollow triangle.
+Write a program to print the series (1/x+1/xx+1/xxx....).
+Write a program to print the sum of series-( 1/1!+1/2!+1/3!.....).
+Write a program to print the sum of series-( ½ +1/4+1/6+1/8.....).
+Write a program to convert binary to decimal.
+Write a program to perform different functions.
+Write a program to print the sum of elements of an array.
+Write a program to find whether string is palindrome.
+Write a program of nested structure.
+Write a program of array with structures.
+ Write a program to arrange the elements of an array using bubble sort technique.
+Write a program to find the maximum number in an unsorted array.
+Write a program to print the sum of matrices.
+Write a program to print the multiplication of matrices.
+Write a menu driven program to find the transpose and sum of diagonal elements of matrix.

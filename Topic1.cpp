@@ -1,4 +1,4 @@
-Write a program to calculate the percentage of four subjects.
+//Write a program to calculate the percentage of four subjects.
 
 #include<iostream.h>
 #include<conio.h>
